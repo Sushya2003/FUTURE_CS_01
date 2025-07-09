@@ -2,6 +2,7 @@
 Task 1: Web Application Security Testing
 
 📍Overview 
+
 This repository contains the work completed for Task 1 of the Cyber Security Internship under the Future Interns Program. The objective of this task was to conduct a vulnerability assessment of a deliberately insecure web application (DVWA) using industry-standard tools and methodologies. The findings simulate a real-world penetration test and demonstrate practical ethical hacking skills.
 
 📝Objectives
@@ -14,9 +15,13 @@ This repository contains the work completed for Task 1 of the Cyber Security Int
 ⚒️Tool
 
 Kali Linux
+
 DVWA
+
 OWASP ZAP
+
 Burp Suite
+
 Firefox
 
 
